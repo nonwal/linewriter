@@ -1,2 +1,2 @@
 # linewriter
-a simple twiddler chord map
+A simple Twiddler chord map. Requires firmware 15+
