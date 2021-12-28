@@ -3,6 +3,6 @@ A simple [Twiddler](http://twiddler.tekgear.com/) chord map optimized for typing
 
 Requires firmware 15+
 
-![](linewriter-layout.png)
+![](linewriter-layout-full.png)
 
 
