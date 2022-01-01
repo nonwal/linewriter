@@ -1,1 +1,2 @@
-Letters are mirrored to account for the reduced reach of the pinky finger (A should be easier to reach than U.) However, the numlock layer and parentheses remain unchanged, as most of these chords are spatially oriented.
+Letters are mirrored to account for the reduced reach of the pinky finger (A should be easier to reach than U.)
+However, the numlock layer and parentheses remain unchanged, as most of these chords are spatially oriented.
